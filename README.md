@@ -1,1 +1,1 @@
-# cloud-ai-infrastructure-lab
+# Cloud AI Infrastructure Lab
